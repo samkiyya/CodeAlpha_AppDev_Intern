@@ -58,7 +58,7 @@ Make sure you have Flutter installed on your machine. If you haven't already set
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/samkiyya/CodeAlpha_AppDev_Intern/flutter_flashcard_quiz_app.git
+   git clone https://github.com/samkiyya/CodeAlpha_AppDev_Intern.git
    ```
 2. **Navigate to the project directory**:
 

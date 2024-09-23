@@ -55,13 +55,13 @@ Follow these simple steps to set up the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/samkiyya/Random-Quote-Generator-App.git
+   git clone https://github.com/samkiyya/CodeAlpha_AppDev_Intern.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Random-Quote-Generator-App
+   cd CodeAlpha_AppDev_Intern/flutter_rand_qoute_gen
    ```
 
 3. **Install dependencies:**

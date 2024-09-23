@@ -4,13 +4,15 @@
 
 ## Table of Contents
 
-- [Description](#description)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [App UI Screenshots](#app-ui-screenshots)
-- [Getting Started](#getting-started)
-- [Feedback](#feedback)
-- [License](#license)
+- [Fitness Tracker App 🏋️‍♂️📱](#fitness-tracker-app-️️)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Technologies Used 🚀](#technologies-used-)
+  - [Features 🌟](#features-)
+  - [App UI Screenshots 📸](#app-ui-screenshots-)
+  - [Getting Started 🚀](#getting-started-)
+  - [Feedback](#feedback)
+  - [License](#license)
 
 ## Description
 
@@ -49,13 +51,13 @@ Follow these simple steps to set up the Fitness Tracker App on your local machin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/samkiyya/CodeAlpha_AppDev_Intern/flutter_fitness_tracking_app.git
+   git clone https://github.com/samkiyya/CodeAlpha_AppDev_Intern.git
    ```
 
 2. **Navigate to Project Directory:**
 
    ```bash
-   cd flutter_fitness_tracking_app
+   cd CodeAlpha_AppDev_Intern/flutter_fitness_tracking_app
    ```
 
 3. **Install Dependencies:**
