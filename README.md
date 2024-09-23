@@ -1,6 +1,6 @@
 # CodeAlpha Internship Projects - App Development
 
-Welcome to my repository! This collection features the applications I developed during my internship at **CodeAlpha** as an App Development intern. Through this experience, I honed my skills in mobile app development using **React Native** and **Flutter**, emphasizing user-centric design and functionality.
+Welcome to my repository! This collection features the applications I developed during my internship at **CodeAlpha** as an App Development intern. Through this experience, I honed my skills in mobile app development using **Flutter**, emphasizing user-centric design and functionality.
 
 ## 📚 Projects Included
 
@@ -35,25 +35,22 @@ A comprehensive application aimed at helping users monitor their fitness activit
 
 - **Languages**:
 
-  - JavaScript (for React Native)
   - Dart (for Flutter)
 
 - **Frameworks**:
 
-  - React Native
   - Flutter
 
 - **Tools**:
   - Git (version control)
   - Figma (design)
-  - Postman (API testing)
 
 ## 🌱 Learning Outcomes
 
 During my internship, I:
 
 - Enhanced my coding and problem-solving skills.
-- Gained hands-on experience with modern mobile frameworks (React Native and Flutter).
+- Gained hands-on experience with the Flutter framework.
 - Developed a strong understanding of user experience (UX) design principles.
 - Collaborated effectively with a team to deliver high-quality applications.
 
